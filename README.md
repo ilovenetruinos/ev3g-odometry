@@ -34,6 +34,8 @@ https://www.cs.princeton.edu/courses/archive/fall11/cos495/COS495-Lecture5-Odome
 http://robotics.stackexchange.com/questions/2847/accelerometer-gyro-and-magnetometer-sensor-fusion-in-2d
 http://wiki.ros.org/robot_localization
 http://www.robotchallenge.org/fileadmin/user_upload/_temp_/RobotChallenge/Tutorial/BeginningNavigation.pdf
+https://sourceforge.net/p/lejos/rcx/code/HEAD/tree/trunk/lejos/src/java/classes/josx/robotics/RotationNavigator.java
+
 
 
 
