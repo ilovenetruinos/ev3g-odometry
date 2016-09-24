@@ -42,3 +42,8 @@ http://www.hmc.edu/lair/E160/E160-Lecture04-PointTracking.pdf
 http://www.hmc.edu/lair/E160/E160-Lecture14-MotionPlanning.pdf
 http://www.ohio.edu/people/uijtdeha/12-_-a-comparison-of-line.pdf
 https://april.eecs.umich.edu/courses/eecs568_f11/wiki/images/5/5f/Laserscanners.pdf
+http://webdiis.unizar.es/~jminguez/MbICP_ICRA.pdf
+https://en.wikipedia.org/wiki/Random_sample_consensus
+http://www.robosoup.com/2015/11/ransac-line-feature-extraction-from-2d.html
+
+
