@@ -31,3 +31,7 @@ https://sourceforge.net/p/lejos/rcx/code/HEAD/tree/trunk/lejos/src/java/classes/
 https://sourceforge.net/p/lejos/nxt/code/HEAD/tree/trunk/classes/src_shared/lejos/robotics/navigation/LegacyNavigator.java
 https://sourceforge.net/p/lejos/nxt/code/HEAD/tree/trunk/classes/src_shared/lejos/robotics/navigation/DifferentialPilot.java
 https://sourceforge.net/p/lejos/nxt/code/HEAD/tree/trunk/classes/src_shared/lejos/robotics/navigation/Pose.java
+https://sourceforge.net/p/lejos/ev3/code/ci/master/tree/ev3classes/src/lejos/robotics/navigation/MovePilot.java
+https://sourceforge.net/p/lejos/ev3/code/ci/master/tree/ev3classes/src/lejos/robotics/navigation/Move.java
+https://sourceforge.net/p/lejos/ev3/code/ci/master/tree/ev3classes/src/lejos/robotics/chassis/WheeledChassis.java
+https://sourceforge.net/p/lejos/ev3/code/ci/master/tree/ev3classes/src/lejos/robotics/navigation/ArcAlgorithms.java
