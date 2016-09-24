@@ -41,3 +41,4 @@ http://www.hmc.edu/lair/E160/E160-Lecture03-Odometry.pdf
 http://www.hmc.edu/lair/E160/E160-Lecture04-PointTracking.pdf
 http://www.hmc.edu/lair/E160/E160-Lecture14-MotionPlanning.pdf
 http://www.ohio.edu/people/uijtdeha/12-_-a-comparison-of-line.pdf
+https://april.eecs.umich.edu/courses/eecs568_f11/wiki/images/5/5f/Laserscanners.pdf
