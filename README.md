@@ -49,3 +49,4 @@ http://www.visual-experiments.com/demo/ransac.js/
 http://sarvagyavaish.github.io/RANSAC/
 http://cs.gmu.edu/~kosecka/cs682/lect-fitting.pdf
 http://stackoverflow.com/questions/11722569/opencv-line-fitting-algorithm
+http://blog.daum.net/pg365/87
