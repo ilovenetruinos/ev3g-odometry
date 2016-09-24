@@ -45,6 +45,7 @@ https://april.eecs.umich.edu/courses/eecs568_f11/wiki/images/5/5f/Laserscanners.
 http://webdiis.unizar.es/~jminguez/MbICP_ICRA.pdf
 https://en.wikipedia.org/wiki/Random_sample_consensus
 http://www.robosoup.com/2015/11/ransac-line-feature-extraction-from-2d.html
-
 http://www.visual-experiments.com/demo/ransac.js/
 http://sarvagyavaish.github.io/RANSAC/
+http://cs.gmu.edu/~kosecka/cs682/lect-fitting.pdf
+http://stackoverflow.com/questions/11722569/opencv-line-fitting-algorithm
