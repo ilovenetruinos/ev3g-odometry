@@ -35,6 +35,7 @@ http://robotics.stackexchange.com/questions/2847/accelerometer-gyro-and-magnetom
 http://wiki.ros.org/robot_localization
 http://www.robotchallenge.org/fileadmin/user_upload/_temp_/RobotChallenge/Tutorial/BeginningNavigation.pdf
 https://sourceforge.net/p/lejos/rcx/code/HEAD/tree/trunk/lejos/src/java/classes/josx/robotics/RotationNavigator.java
+https://sourceforge.net/p/lejos/nxt/code/HEAD/tree/trunk/classes/src_shared/lejos/robotics/navigation/LegacyNavigator.java
 
 
 
