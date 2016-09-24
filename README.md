@@ -35,3 +35,8 @@ https://sourceforge.net/p/lejos/ev3/code/ci/master/tree/ev3classes/src/lejos/rob
 https://sourceforge.net/p/lejos/ev3/code/ci/master/tree/ev3classes/src/lejos/robotics/navigation/Move.java
 https://sourceforge.net/p/lejos/ev3/code/ci/master/tree/ev3classes/src/lejos/robotics/chassis/WheeledChassis.java
 https://sourceforge.net/p/lejos/ev3/code/ci/master/tree/ev3classes/src/lejos/robotics/navigation/ArcAlgorithms.java
+http://www.hmc.edu/lair/E160/labs.html
+http://www.hmc.edu/lair/E160/E160-Lecture02-RobotMotion.pdf
+http://www.hmc.edu/lair/E160/E160-Lecture03-Odometry.pdf
+http://www.hmc.edu/lair/E160/E160-Lecture04-PointTracking.pdf
+http://www.hmc.edu/lair/E160/E160-Lecture14-MotionPlanning.pdf
