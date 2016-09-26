@@ -51,3 +51,4 @@ http://cs.gmu.edu/~kosecka/cs682/lect-fitting.pdf
 http://stackoverflow.com/questions/11722569/opencv-line-fitting-algorithm
 http://blog.daum.net/pg365/87
 http://www.ipol.im/pub/art/2012/gjmr-lsd/article.pdf
+https://github.com/ab3nd/TinyRobo/blob/2c567728f06eebdb63a06772911e237455a8f4fa/software/catkin_ws/src/sim_robots/src/sim_robots/sim_robots.cpp
