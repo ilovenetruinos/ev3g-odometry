@@ -11,13 +11,11 @@ A EV3G project to develop to implement the Motion model using Tacho Motors and E
 
 # Maths
 
-* wheel_circumference = distance / motor_rotations
-* distance = wheel_circumference * motor_rotations
-
-*Pivot turns:*
-One wheel turns while other is stationary
-
-* motor_degrees = turn_angle * wheel_track / wheel_radius
+* distance = wheelCircumference * motorRotations
+* displacement = (leftEncoderCount + rightEncoderCount) * encoderScaleFactor / 2 
+* encoderScaleFactor = PI * wheelDiameter / countsPerRevolution
+* posX = posX + displacement * cos(heading)
+* posY = posY + displacement * sin(heading)
 
 **Sources of odometry error:**
 
