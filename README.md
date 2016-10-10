@@ -13,4 +13,5 @@ References:
 
 * [EV3Dev Mapping](http://www.ev3dev.org/projects/2016/08/07/Mapping/) (Thanks Bmegli)
 * [Odin](http://www.philohome.com/odin/odin.htm)
+* [Cartographer](https://github.com/googlecartographer/cartographer)
 
