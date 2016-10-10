@@ -15,3 +15,7 @@ Some ideas used in this project:
 **Receive a message:**
 
 ![BT_2_ReadMessage](./images/BT_2_ReadMessage.png)
+
+**Downloads: **
+
+[Example](../examples/btUtils.ev3)
