@@ -11,6 +11,7 @@ A EV3G project to develop to implement the Motion model using Tacho Motors and E
 
 # Maths
 
+* wheelCircumference = PI * wheelDiameter
 * distance = wheelCircumference * motorRotations
 * displacement = (leftEncoderCount + rightEncoderCount) * encoderScaleFactor / 2 
 * encoderScaleFactor = PI * wheelDiameter / countsPerRevolution
