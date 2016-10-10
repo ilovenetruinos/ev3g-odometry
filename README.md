@@ -9,5 +9,5 @@ A EV3G project to develop to implement the Motion model using Tacho Motors and E
 * [Remote Debugging with Bluetooth](./docs/EV3_Bluetooth.md)
 * Trigonometry
 
-![Motion Model Summary](./docs/images/ODOM_MotionMode.png)
+![Motion Model Summary](./docs/images/ODOM_MotionModel.png)
 
