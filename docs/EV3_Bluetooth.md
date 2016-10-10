@@ -7,3 +7,11 @@ Some ideas used in this project:
 **Initialize program:**
 
 ![BT_1.1_initializeBT](./images/BT_1.1_initializeBT.png)
+
+**Send a message:**
+
+![BT_1.2_SendMessage](./images/BT_1.2_SendMessage.png)
+
+**Receive a message:**
+
+![BT_2_ReadMessage](./images/BT_2_ReadMessage.png)
