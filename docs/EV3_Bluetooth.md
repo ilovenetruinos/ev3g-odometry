@@ -16,6 +16,6 @@ Some ideas used in this project:
 
 ![BT_2_ReadMessage](./images/BT_2_ReadMessage.png)
 
-**Downloads:**
+**Example:**
 
-[Example](../examples/btUtils.ev3)
+* [Download: btUtils.ev3](../examples/btUtils.ev3)
