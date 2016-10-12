@@ -13,10 +13,10 @@ A EV3G project to develop to implement the Motion model using Tacho Motors and E
 
 * wheelCircumference = PI * wheelDiameter
 * distance = wheelCircumference * motorRotations
-* encoderScaleFactor = PI * wheelDiameter / countsPerRevolution
+* encoderScaleFactor = (PI * wheelDiameter) / countsPerRevolution
 * displacement = (leftEncoderCount + rightEncoderCount) * encoderScaleFactor / 2 
-* posX = posX + displacement * cos(heading) <- Heading in Radians
-* posY = posY + displacement * sin(heading) <- Heading in Radians
+* posX = posX + (displacement * cos(heading)) <- Heading in Radians
+* posY = posY + (displacement * sin(heading)) <- Heading in Radians
 
 **Sources of odometry error:**
 
