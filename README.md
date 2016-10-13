@@ -8,7 +8,7 @@ This project has been designed to offer a set of Custom EV3 Blocks to be used in
 
 ![Motivation](./docs/images/motivation.png)
 
-The EV3 programming environment offers a basic solution based on rotations to use on your wheeled robots but if you need an advanced solution based on Odometry, in many scenarios to have to move to other alternatives based on Textual programming languages as [Java LeJOS](http://www.lejos.org/), the platform [EV3Dev](http://www.ev3dev.org/) or [Robot C](http://www.robotc.net/). In the past, the NXT Brick, existed a project named [Odin](http://www.philohome.com/odin/odin.htm) designed with a similar goal but NXT programs are not compatible for EV3 so implemented this project from Scracht. This project tries to offer a solution for LEGO Users using the visual programming environment to move robots using Odometry features.
+The EV3 programming environment offers a basic solution based on rotations to use on your wheeled robots but if you need an advanced solution based on Odometry, in many scenarios to have to move to other alternatives based on Textual programming languages as [Java LeJOS](http://www.lejos.org/), the platform [EV3Dev](http://www.ev3dev.org/) or [Robot C](http://www.robotc.net/). In the past, the NXT Brick, existed a project named [Odin](http://www.philohome.com/odin/odin.htm) designed with a similar goal but NXT programs are not compatible for EV3 so implemented this project from Scratch. This project tries to offer a solution for LEGO Users using the visual programming environment to move robots using Odometry features.
 
 ## What is Odometry?
 
