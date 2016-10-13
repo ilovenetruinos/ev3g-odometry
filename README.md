@@ -1,11 +1,14 @@
 # ev3g-odometry
 
-A EV3G project to develop to implement the Motion model using Tacho Motors and EV3 Gyros.
+This project has been designed to offer a set of EV3G blocks to be used to add Odometry to your wheeled robots. The solution uses Gyros to improve the accuracy of the movements.
+
+## Why?
+
+![Motivation](./docs/images/motivation.png)
 
 ## Documentation
 
 * Motion Model for a Wheeled robot
-* Motion Model for a Robot using a Gyro Sensor
 * [Remote Debugging with Bluetooth](./docs/EV3_Bluetooth.md)
 * Trigonometry
 
