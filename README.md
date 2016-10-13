@@ -74,6 +74,16 @@ Download the program [here](./examples/odometry.ev3)
 * [Trigonometry](./docs/EV3_Trigonometry.md)
 * [Developer notes](./docs/developerNotes.md)
 
+## Platform
+
+The project was tested with the following mobile platform.
+
+![Base](./LDD/Base1/Base1_6.png)
+
+[Download the LDD design](./LDD/Base1/Base1_6.lxf). In few hours it is possible to run the same tests
+
+![Brity2](./docs/images/ThePlatformInAction.png)
+
 ## Backlog
 
 * Add the block to Rotate with the Sensor [Microinfinity CruizCore XG1300L](http://www.minfinity.com/eng/page.php?Main=1&sub=1&tab=5) 
