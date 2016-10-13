@@ -76,6 +76,8 @@ Download the program [here](./examples/odometry.ev3)
 
 ## Backlog
 
+* Add the block to Rotate with the Sensor [Microinfinity CruizCore XG1300L](http://www.minfinity.com/eng/page.php?Main=1&sub=1&tab=5) 
+* Add the block to Rotate with the Sensor [Mindsensors AbsoluteIMU](http://www.mindsensors.com/ev3-and-nxt/15-gyro-multisensitivity-accelerometer-and-compass-for-nxt-or-ev3)
 * Add a utility to send a Pose to another brick to Debug ¨showBTPose¨
 * Add the block "RotateTo(Angle in Degrees)"
 * Add the block "GoTo(x,y)"
