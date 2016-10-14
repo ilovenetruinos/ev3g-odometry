@@ -26,17 +26,22 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Odometry)
 
 ![Travel with Pose](./docs/images/travelWithPoseBlock.png)
 
-### Rotate
+### Rotate using the Sensor Lego Gyro
 
 ![Rotate](./docs/images/rotateBlock.png)
 
-### Rotate with Pose
+### Rotate with Pose using the Sensor Lego Gyro
 
 ![Rotate with Pose](./docs/images/rotateWithPoseBlock.png)
 
-### Rotate with Cruizcore XG1300L
+### Rotate using the Sensor Cruizcore XG1300L
 
 ![Rotate Cruizcore](./docs/images/rotateCruizcoreBlock.png)
+
+### Rotate with Pose using the Sensor Cruizcore XG1300L
+
+![Rotate Cruizcore](./docs/images/rotateCruizcoreWithPoseBlock.png)
+
 
 ## EV3 Utility blocks
 
@@ -121,6 +126,8 @@ If you have some doubt, please [create a issue](https://github.com/ilovenetruino
 
 Juan Antonio Brenha Moral, 2016
 [http://www.iloveneutrinos.com](http://www.iloveneutrinos.com)
+
+This project is not connected to or endorsed by The LEGO Group. LEGO, Mindstorms are trademarks of The LEGO Group.
 
 
 
