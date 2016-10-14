@@ -13,8 +13,8 @@ You can test the calculus in the following Excel to calculate the calculus: [Dow
 
 The odometry error grow with the distance:
 
-![](./docs/images/odometryError1.png)
+![](./images/odometryError1.png)
 
 But it is possible to be increased when the robot turn. Gyro sensor accuracy is able to reduce this kind of error.
 
-![](./docs/images/odometryError2.png)
+![](./images/odometryError2.png)
