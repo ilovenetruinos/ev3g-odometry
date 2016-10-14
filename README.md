@@ -34,6 +34,10 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Odometry)
 
 ![Rotate with Pose](./docs/images/rotateWithPoseBlock.png)
 
+### Rotate with Cruizcore XG1300L
+
+![Rotate Cruizcore](./docs/images/rotateCruizcoreBlock.png)
+
 ## EV3 Utility blocks
 
 ### Show BT Pose
@@ -94,9 +98,7 @@ The project was tested with the following mobile platform.
 
 ## Backlog
 
-* Add the block to Rotate with the Sensor [Microinfinity CruizCore XG1300L](http://www.minfinity.com/eng/page.php?Main=1&sub=1&tab=5) 
 * Add the block to Rotate with the Sensor [Mindsensors AbsoluteIMU](http://www.mindsensors.com/ev3-and-nxt/15-gyro-multisensitivity-accelerometer-and-compass-for-nxt-or-ev3)
-* Add a utility to send a Pose to another brick to Debug ¨showBTPose¨
 * Add the block "RotateTo(Angle in Degrees)"
 * Add the block "GoTo(x,y)"
 
@@ -108,11 +110,12 @@ If you have some doubt, please [create a issue](https://github.com/ilovenetruino
 
 * [EV3Dev Mapping](http://www.ev3dev.org/projects/2016/08/07/Mapping/)
 * [Odin](http://www.philohome.com/odin/odin.htm)
+* [LeJOS RCX RotationNavigator.java](https://sourceforge.net/p/lejos/rcx/code/HEAD/tree/trunk/lejos/src/java/classes/josx/robotics/RotationNavigator.java)
+* [Robot Nav](http://www.robotnav.com/position-estimation/)
+* [Sariel section about Wheels](http://wheels.sariel.pl/)
 * [Cartographer](https://github.com/googlecartographer/cartographer)
 * [David Anderson notes about IMU Odometry](http://seattlerobotics.org/encoder/200610/Article3/IMU%20Odometry,%20by%20David%20Anderson.htm)
 * [COS495-Lecture5](https://www.cs.princeton.edu/courses/archive/fall11/cos495/COS495-Lecture5-Odometry.pdf)
-* [RCX RotationNavigator.java](https://sourceforge.net/p/lejos/rcx/code/HEAD/tree/trunk/lejos/src/java/classes/josx/robotics/RotationNavigator.java)
-* [Sariel section about Wheels](http://wheels.sariel.pl/)
 
 **Note:** My sincere thanks for [Bmegli](https://github.com/bmegli/ev3dev-mapping) by his technical support.
 
