@@ -36,6 +36,14 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Odometry)
 
 ## EV3 Utility blocks
 
+### Show BT Pose
+
+![Show Pose](./docs/images/example_showBTPose.png)
+
+### Read BT Pose
+
+![Show Pose](./docs/images/example_readBTPose.png)
+
 ### Show Pose
 
 ![Show Pose](./docs/images/showPoseBlock.png)
@@ -62,14 +70,6 @@ To solve this kind of solution, a easy way is to calculate the error generated b
 
 ![Using the robot on a Carpet](./docs/images/exampleMovementOnCarpet.png)
 
-The odometry error grow with the distance:
-
-![](./docs/images/odometryError1.png)
-
-But it is possible to be increased when the robot turn. Gyro sensor accuracy is able to reduce this kind of error.
-
-![](./docs/images/odometryError2.png)
-
 ## Downloads
 
 Download the program [here](./examples/odometry.ev3)
@@ -77,7 +77,7 @@ Download the program [here](./examples/odometry.ev3)
 ## Documentation
 
 * [Configuration](./docs/EV3_OdometryBlocksConfiguration.md)
-* [Motion Model for a Wheeled robot](./docs/EV3_WheeledMotionModelm.md)
+* [Motion Model for a Wheeled robot](./docs/EV3_WheeledMotionModel.md)
 * [Remote Debugging with Bluetooth](./docs/EV3_Bluetooth.md)
 * [Trigonometry](./docs/EV3_Trigonometry.md)
 * [Developer notes](./docs/developerNotes.md)
@@ -90,7 +90,7 @@ The project was tested with the following mobile platform.
 
 [Download the LDD design](./LDD/Base1/Base1_6.lxf). In few hours it is possible to run the same tests
 
-![Brity2](./docs/images/ThePlatformInAction.png)
+![Brity2](./docs/images/ThePlatformInAction.jpg)
 
 ## Backlog
 
@@ -114,7 +114,7 @@ If you have some doubt, please [create a issue](https://github.com/ilovenetruino
 * [RCX RotationNavigator.java](https://sourceforge.net/p/lejos/rcx/code/HEAD/tree/trunk/lejos/src/java/classes/josx/robotics/RotationNavigator.java)
 * [Sariel section about Wheels](http://wheels.sariel.pl/)
 
-**Note:** My sincere thanks for the [Bmegli](https://github.com/bmegli/ev3dev-mapping) by his technical support.
+**Note:** My sincere thanks for [Bmegli](https://github.com/bmegli/ev3dev-mapping) by his technical support.
 
 Juan Antonio Brenha Moral, 2016
 [http://www.iloveneutrinos.com](http://www.iloveneutrinos.com)
