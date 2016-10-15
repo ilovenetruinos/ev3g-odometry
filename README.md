@@ -103,9 +103,9 @@ The project was tested with the following mobile platform.
 
 ## Backlog
 
-* Add the block to Rotate with the Sensor [Mindsensors AbsoluteIMU](http://www.mindsensors.com/ev3-and-nxt/15-gyro-multisensitivity-accelerometer-and-compass-for-nxt-or-ev3)
 * Add the block "RotateTo(Angle in Degrees)"
 * Add the block "GoTo(x,y)"
+* Add the block to Rotate with the Sensor [Mindsensors AbsoluteIMU](http://www.mindsensors.com/ev3-and-nxt/15-gyro-multisensitivity-accelerometer-and-compass-for-nxt-or-ev3)
 
 # Questions & Issues
 
@@ -121,6 +121,7 @@ If you have some doubt, please [create a issue](https://github.com/ilovenetruino
 * [Cartographer](https://github.com/googlecartographer/cartographer)
 * [David Anderson notes about IMU Odometry](http://seattlerobotics.org/encoder/200610/Article3/IMU%20Odometry,%20by%20David%20Anderson.htm)
 * [COS495-Lecture5](https://www.cs.princeton.edu/courses/archive/fall11/cos495/COS495-Lecture5-Odometry.pdf)
+* [NXT Atan2 library](http://www.hitechnic.com/blog/uncategorized/new-hitechnic-blocks-for-sin-cos-and-atan2/)
 
 **Note:** My sincere thanks for [Bmegli](https://github.com/bmegli/ev3dev-mapping) by his technical support.
 
